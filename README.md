@@ -1,0 +1,2 @@
+This project was made in HTML with CSS for styling. I had a lot of liberty for how
+I could stylize this so I opted for something retro and neon. Second half of the project revolved around using Git to post and push the project onto GitHub.
